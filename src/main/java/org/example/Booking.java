@@ -9,7 +9,7 @@ public class Booking {
     private Guest guest;
     private String checkInDate;
     private String checkOutDate;
-    private double totalAmount;
+    private double totalAmount ;
 
     public Booking() {
     }
